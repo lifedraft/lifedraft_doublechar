@@ -1,0 +1,9 @@
+h1. LifeDraft DoubleChar
+
+Ever dreamed about intelligent text-area or input field? 
+This jQuery-Plugin does the following: Creates closing and opening characters while you are typing!
+Just amazing! Amazing intuitive and simple to install. 
+
+@jQuery("textarea").lifedraft_doubleChar();@
+
+Done.
